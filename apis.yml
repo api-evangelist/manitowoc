@@ -1,7 +1,12 @@
 aid: manitowoc
-url: https://raw.githubusercontent.com/api-evangelist/manitowoc/refs/heads/main/apis.yml
+url: 
+  https://raw.githubusercontent.com/api-evangelist/manitowoc/refs/heads/main/apis.yml
 modified: '2026-03-24'
 apis: []
 common:
   - type: Website
     url: https://www.manitowoc.com
+description: >-
+  Manitowoc Cranes is one of the world's largest providers of lifting equipment for
+  the global construction industry, including lattice-boom crawler cranes, tower cranes,
+  mobile hydraulic cranes and boom trucks.
