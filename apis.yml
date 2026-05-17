@@ -5,7 +5,7 @@ description: >-
   the global construction industry, including lattice-boom crawler cranes, tower
   cranes, mobile hydraulic cranes, and boom trucks. No public developer APIs have
   been documented.
-type: Contract
+kind: contract
 image: https://kinlane-productions2.s3.amazonaws.com/apis-json/apis-json-logo.jpg
 access: 3rd-Party
 position: Consuming
