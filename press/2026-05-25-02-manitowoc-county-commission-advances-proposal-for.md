@@ -1,7 +1,9 @@
 ---
 title: Manitowoc County commission advances proposal for ...
 url: https://fox11online.com/news/local/manitowoc-county-commission-advances-proposal-for-moratorium-on-data-centers
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Manitowoc" press release artificial intelligence'
 position: 2
 source: serpapi-google

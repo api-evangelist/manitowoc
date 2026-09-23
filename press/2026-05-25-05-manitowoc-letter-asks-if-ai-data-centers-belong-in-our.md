@@ -1,7 +1,9 @@
 ---
 title: Manitowoc letter asks if AI data centers belong in our ...
 url: https://www.aol.com/news/manitowoc-letter-asks-ai-data-090234738.html
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Manitowoc" press release artificial intelligence'
 position: 5
 source: serpapi-google

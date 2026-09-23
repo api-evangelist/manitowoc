@@ -1,7 +1,9 @@
 ---
 title: Manitowoc letter urges nuclear option for data center power
 url: https://www.htrnews.com/story/opinion/readers/2026/04/18/manitowoc-htr-letter-data-centers-farmland-nuclear-solar-cooling/89626892007/
-date: '2026-05-25'
+published: '2026-04-18'
+date_basis: url-derived
+harvested: '2026-05-25'
 query: '"Manitowoc" press release artificial intelligence'
 position: 3
 source: serpapi-google
